@@ -1,0 +1,12 @@
+# as ondas sonoras dos áudios não nos dão nenhuma informação pois são muito iguais
+# o espectrograma 1 atenuou algumas frequencias de 10.000hz pra cima
+# o espectrograma 2 atenuou apenas uma faixa por volta de 15.000hz
+# o espectrograma 3 atenuou uma faixa entre 17.000hz e 17.500hz
+# o rms obtido pelos amps de embocadura grande foi maior 
+# nota-se que os amps com embocadura grande ficaram mais próximos no gráfico meanXstd
+# talvez daria pra classificar quais amplificadores tem embocadura grande ou não
+
+
+
+
+https://towardsdatascience.com/extract-features-of-music-75a3f9bc265d
