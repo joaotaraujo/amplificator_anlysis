@@ -1,4 +1,4 @@
-# Anlysis of clay amplifiers
+# Analysis of clay amplifiers
 
 About
 -----
