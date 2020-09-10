@@ -1,8 +1,8 @@
-# Anlysis of clay amplificators
+# Anlysis of clay amplifier
 
 About
 -----
-This is a MIR (Music Information Retrieval) project that aims to analyze the sound producted by 3 diferent clay amplificators.
+This is a MIR (Music Information Retrieval) project that aims to analyze the sound producted by 3 diferent clay amplifiers.
 
 In this work, white noises produced by a smartphone were recorded, which was inside the amplifiers.
 
