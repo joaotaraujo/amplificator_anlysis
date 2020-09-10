@@ -23,7 +23,7 @@ By the wave and the frequences x time matrix we can't se difference between the 
 
 ![GitHub Logo](/images/wave.png)
 
-![GitHub Logo](/images/freq.png)
+![GitHub Logo](/images/freqs.png)
 
 
 By the RMS descriptor we can see that amplifiers with open tip have a higher RMS value (the 0 reffers to the white noise without any amplifier)
