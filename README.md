@@ -8,6 +8,7 @@ In this work, white noises produced by a smartphone were recorded, which was ins
 
 From the recorded sound, some information was extracted from each audio.
 
+Note: front and back reffers to smartphone position
 
 Images
 -------
